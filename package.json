@@ -1,0 +1,14 @@
+{
+  "name": "example-npm",
+  "version": "1.0.0",
+  "description": "this is an example of npm utilization",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago C.",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0"
+  }
+}
